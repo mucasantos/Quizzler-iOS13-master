@@ -51,6 +51,7 @@ struct QuizBrain {
         
         return progress
         
+        
     }
     
     mutating func nextQuestion()
